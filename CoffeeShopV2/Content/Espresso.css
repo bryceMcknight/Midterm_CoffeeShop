@@ -1,0 +1,89 @@
+﻿.espresso-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.espresso-image:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.espresso-image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.espresso-image2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+h1.espresso-header {
+    color: #e8dbae;
+    text-align: left;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+p.espresso-description {
+    color: #e8dbae;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+p.espresso-prices {
+    color: #e8dbae;
+    text-shadow: 1px 1px 2px #000000;
+    margin-right: 27px;
+}
+
+p.espresso-info {
+    color: #e8dbae;
+    text-align: center;
+    text-shadow: 2px 1px 2px #000000;
+}
+
+p.espresso-calories {
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+/*.single {
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.single-price {
+    color: white;
+    background-color: #392613;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 12px;
+    margin-right: 0px;
+    margin-left: 5px;
+    border: none;
+    width: 50px;
+}
+
+.doppio {
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.doppio-price {
+    color: white;
+    background-color: #392613;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 12px;
+    margin-right: 0px;
+    margin-left: 5px;
+    border: none;
+    width: 50px;
+}*/

@@ -1,0 +1,58 @@
+﻿.cappuccino-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.cappuccino-image:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.cappuccino-image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.cappuccino-image2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.cappuccino-header {
+    color: #e8dbae;
+    text-align: left;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.cappuccino-description {
+    color: #e8dbae;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.cappuccino-prices {
+    color: #e8dbae;
+    text-shadow: 1px 1px 2px #000000;
+    margin-right: 27px;
+}
+
+.cappuccino-info {
+    color: #e8dbae;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: 2px 1px 2px #000000;
+}
+
+.cappuccino-calories {
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 12px;
+    margin-left: 10px;
+}
